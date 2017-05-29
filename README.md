@@ -1,3 +1,11 @@
+> Other resources
+
+> https://stackoverflow.com/a/25334301/2605574
+
+> http://olivier.barais.fr/blog/posts/2014.08.26/Eclipse_in_docker_container.html
+
+> https://stackoverflow.com/questions/16296753/can-you-run-gui-apps-in-a-docker-container/25280523#25280523
+
 [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/browser-box/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/browser-box)
 
 # sameersbn/browser-box:1.0.1-3
